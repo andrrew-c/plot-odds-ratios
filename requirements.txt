@@ -1,0 +1,7 @@
+pandas
+altair
+altair_viewer
+
+# Reading Excel
+xlrd
+openpyxl
