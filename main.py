@@ -1,7 +1,7 @@
 import pandas as pd
 import altair as alt
 
-from constants import *
+from constants import path_xl, cols, numeric_cols
 
 # Set up workbook
 xl = pd.ExcelFile(path_xl, engine='openpyxl')
